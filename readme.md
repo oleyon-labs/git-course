@@ -13,3 +13,5 @@ baba
 ttuuka
 
 merge into master
+
+safe push
