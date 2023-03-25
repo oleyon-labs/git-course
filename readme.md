@@ -18,3 +18,5 @@ safe push
 
 
 awawa
+
+кусь
