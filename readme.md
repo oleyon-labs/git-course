@@ -20,3 +20,5 @@ safe push
 awawa
 
 изменение
+
+кусь
